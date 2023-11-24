@@ -8,7 +8,11 @@ Initial Function()
 Initial Security()
 {
  //Sample Code
+<<<<<<< HEAD
  Security patch for feature1
+=======
+ Security patch for Feature
+>>>>>>> feature2
 }
 
 
